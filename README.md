@@ -18,4 +18,4 @@ IDE o Editor de Codigo
 ## Autor ✒️
 * **Andres Gonzalez** -Desarrollo y Documentacion - [AndresFernandoGonzalezAlcantara](https://github.com/AndresFernandoGonzalezAlcantara)
 ## Licencia
-Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia GNU General Public License v2.0 - mira el archivo [LICENSE](LICENSE) para detalles

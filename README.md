@@ -1,5 +1,5 @@
 # 2022-1-ipc1-Proyecto1
-Bienvenidos al Repositorio para el Proyecto 1: Super Auto Pets
+Bienvenidos al Repositorio para el Proyecto 1: Super Auto Pets; basado en el juego para celulares SUPER AUTO PETS
 ## Comenzando 🤟🏻
 Estas instrucciones te permitiran realizar una copia del proyecto para fines de desarrollo y pruebas.
 ### Pre-requisitos🏋🏻‍♀️
